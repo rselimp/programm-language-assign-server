@@ -1,0 +1,96 @@
+[
+    {
+      "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+      "category_id": "01",
+  
+      "title": "Javascript Programming Language",
+      
+      "thumbnail_url": "https://www.pragimtech.com/wp-content/uploads/2019/03/java-script.jpg",
+      "image_url": "https://www.pragimtech.com/wp-content/uploads/2019/03/java-script.jpg",
+      "details": "JavaScript (JS) is a lightweight, interpreted, or just-in-time compiled programming language with first-class functions.JavaScript is a dynamic computer programming language. It is lightweight and most commonly used as a part of web pages, whose implementations allow client-side script to interact with the user and make dynamic pages. It is an interpreted programming language with object-oriented capabilities.Client-side JavaScript is the most common form of the language. The script should be included in or referenced by an HTML document for the code to be interpreted by the browser.t means that a web page need not be a static HTML, but can include programs that interact with the user, control the browser, and dynamically create HTML content.The JavaScript client-side mechanism provides many advantages over traditional CGI server-side scripts. For example, you might use JavaScript to check if the user has entered a valid e-mail address in a form field."
+
+
+
+
+    },
+
+    {
+      "_id": "0282e0e58a5c404fbd15261f11c2ab6b",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+      "category_id": "02",
+     
+      "title": "Python Programming Langugae",
+      
+      "thumbnail_url": "https://res.cloudinary.com/dyd911kmh/image/upload/v1646560927/shutterstock_1329434768_bf9003ea47.jpg",
+      "image_url": "https://res.cloudinary.com/dyd911kmh/image/upload/v1646560927/shutterstock_1329434768_bf9003ea47.jpg",
+      "details": "Python is an interpreted, object-oriented, high-level programming language with dynamic semantics. Its high-level built in data structures, combined with dynamic typing and dynamic binding, make it very attractive for Rapid Application Development, as well as for use as a scripting or glue language to connect existing components together. Python's simple, easy to learn syntax emphasizes readability and therefore reduces the cost of program maintenance. Python supports modules and packages, which encourages program modularity and code reuse. The Python interpreter and the extensive standard library are available in source or binary form without charge for all major platforms, and can be freely distributed.Often, programmers fall in love with Python because of the increased productivity it provides. Since there is no compilation step, the edit-test-debug cycle is incredibly fast. Debugging Python programs is easy: a bug or bad input will never cause a segmentation fault. Instead, when the interpreter discovers an error, it raises an exception. When the program doesn't catch the exception, the interpreter prints a stack trace. A source level debugger allows inspection of local and global variables, evaluation of arbitrary expressions, setting breakpoints, stepping through the code a line at a time, and so on. The debugger is written in Python itself, testifying to Python's introspective power. On the other hand, often the quickest way to debug a program is to add a few print statements to the source: the fast edit-test-debug cycle makes this simple approach very effective."
+    },
+
+    {
+      "_id": "f69a695f037cd9484cecaea37ca71011",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+      "category_id": "03",
+      
+      
+      "title": "PHP Programming Language",
+     
+      "thumbnail_url": "https://i.ytimg.com/vi/wCZ5TJCBWMg/maxresdefault.jpg",
+      "image_url": "https://i.ytimg.com/vi/wCZ5TJCBWMg/maxresdefault.jpg",
+      "details": "PHP (recursive acronym for PHP: Hypertext Preprocessor) is a widely-used open source general-purpose scripting language that is especially suited for web development and can be embedded into HTML.What distinguishes PHP from something like client-side JavaScript is that the code is executed on the server, generating HTML which is then sent to the client. The client would receive the results of running that script, but would not know what the underlying code was. You can even configure your web server to process all your HTML files with PHP, and then there's really no way that users can tell what you have up your sleeve.The best part about using PHP is that it is extremely simple for a newcomer, but offers many advanced features for a professional programmer. Don't be afraid to read the long list of PHP's features. You can jump in, in a short time, and start writing simple scripts in a few hours."
+    },
+    {
+      "_id": "f69a695f037cd9484cecaea37ca71012",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+      "category_id": "04",
+      
+      "title": "Java Programming Language",
+      
+      "thumbnail_url": "https://d2s6h2b6.stackpathcdn.com/blog/wp-content/uploads/2019/03/Java-Programming-4-1.png",
+      "image_url": "https://d2s6h2b6.stackpathcdn.com/blog/wp-content/uploads/2019/03/Java-Programming-4-1.png",
+      "details": "JAVA was developed by James Gosling at Sun Microsystems Inc in the year 1995, later acquired by Oracle Corporation. It is a simple programming language. Java makes writing, compiling, and debugging programming easy. It helps to create reusable code and modular programs. Java is a class-based, object-oriented programming language and is designed to have as few implementation dependencies as possible. A general-purpose programming language made for developers to write once run anywhere that is compiled Java code can run on all platforms that support Java. Java applications are compiled to byte code that can run on any Java Virtual Machine. The syntax of Java is similar to c/c++.Java programs are more highly structured than C++ equivalents. All functions (or Java methods) and executable statements in Java must reside within a class while C++ allows function definitions and lines of code to exist outside of classes (as in C-style programs). Global data and methods cannot reside outside of a class in Java, whereas C++ allows this. These restrictions, though cumbersome at times, help maintain the integrity and security of Java programs and forces them to be totally object-oriented."
+    },
+
+    {
+      "_id": "11468ed61aee84de492a8b04158a22f9",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": false
+      },
+      "category_id": "05",
+      
+      
+      "title": "C# Programming Language",
+      
+      "thumbnail_url": "https://edraak-marketing-uploads.edraak.org/Courses/sa.png",
+      "image_url": "https://edraak-marketing-uploads.edraak.org/Courses/sa.png",
+      "details": "C# (pronounced #See Sharp) is a modern, object-oriented, and type-safe programming language. C# enables developers to build many types of secure and robust applications that run in .NET. C# has its roots in the C family of languages and will be immediately familiar to C, C++, Java, and JavaScript programmers. This tour provides an overview of the major components of the language in C# 11 and earlier. If you want to explore the language through interactive examples, try the introduction to C# tutorials.C# is an object-oriented, component-oriented programming language. C# provides language constructs to directly support these concepts, making C# a natural language in which to create and use software components. Since its origin, C# has added features to support new workloads and emerging software design practices. At its core, C# is an object-oriented language. You define types and their behavior."
+    },
+    {
+      "_id": "11468ed61aee84de492a8b04158a22f0",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": false
+      },
+      "category_id": "06",
+      
+      
+      "title": "Ruby Programming Language",
+      
+      "thumbnail_url": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20190902124355/ruby-programming-language.png",
+      "image_url": "https://cdn4.vectorstock.com/i/1000x1000/02/53/ruby-programming-language-vector-23860253.jpg",
+      "details": "Ruby is a dynamic, open source, object oriented and reflective programming language. Ruby is considered similar to Perl and Smalltalk programming languages. It runs on all types of platforms like Windows, Mac OS and all versions of UNIX.It is fully object oriented programming language. Everything is an object in Ruby. Each and every code has their properties and actions. Here properties refer to variables and actions refer to methods.Ruby is considered to follow the principle of POLA (principle of least astonishment). It means that the language behaves in such a way to minimize the confusion for experienced users."
+    }   
+  ]
